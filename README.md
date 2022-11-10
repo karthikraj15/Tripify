@@ -10,7 +10,7 @@ This project was created using Node.js, Express, MongoDB, and Bootstrap. Passpor
 * Search campground by name or location
 
 ## Run it locally
-1. Install [mongodb](https://www.mongodb.com/)
+1. Install [mongodb](https://www.mongodb.com/) or use [MongoAtlas](https://www.mongodb.com/atlas/database)
 2. Create a cloudinary account to get an API key and secret code
 
 ```
