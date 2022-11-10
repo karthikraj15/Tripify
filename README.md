@@ -1,6 +1,6 @@
-# YelpCamp
+# Tripify
 
-YelpCamp is a website where users can create and review campgrounds. In order to review or create a campground, you must have an account. 
+Tripify is a website where users can create and review campgrounds. In order to review or create a campground, you must have an account. 
 
 This project was created using Node.js, Express, MongoDB, and Bootstrap. Passport.js was used to handle authentication.  
 
@@ -14,8 +14,8 @@ This project was created using Node.js, Express, MongoDB, and Bootstrap. Passpor
 2. Create a cloudinary account to get an API key and secret code
 
 ```
-git clone https://github.com/karthikraj15/Yelpcamp.git
-cd YelpCamp
+git clone https://github.com/karthikraj15/Tripify.git
+cd Tripify
 npm install
 ```
 
