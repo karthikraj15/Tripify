@@ -19,11 +19,14 @@ cd Tripify
 npm install
 ```
 
-Create a .env file (or just export manually in the terminal) in the root of the project and add the following:  
+Create a .env file in the root of the project and add the following:  
 
 ```
-API_KEY='<key>'
-API_SECRET='<secret>'
+CLOUDINARY_CLOUD_NAME='<name>'
+CLOUDINARY_KEY='<key>'
+CLOUDINARY_SECRET='<secret>'
+
+MAPBOX_TOKEN='<token>'
 ```
 
 Run ```mongod``` in another terminal and ```node app.js``` in the terminal with the project.  
