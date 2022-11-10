@@ -11,7 +11,7 @@ This project was created using Node.js, Express, MongoDB, and Bootstrap. Passpor
 
 ## Run it locally
 1. Install [mongodb](https://www.mongodb.com/) or use [MongoAtlas](https://www.mongodb.com/atlas/database)
-2. Create a cloudinary account to get an API key and secret code
+2. Create a cloudinary account to get an CLOUDINARY API key and secret code
 
 ```
 git clone https://github.com/karthikraj15/Tripify.git
